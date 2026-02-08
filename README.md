@@ -1,7 +1,26 @@
 # Roblox scripts (to develop games)
 
-Basically this repository has some random codes from my roblox games ( which most are privated)
+Basically this repository has some random codes from my roblox games ( which all except 2 are privated)
 
-These codes can help develop roblox games :D
+-Tutorial- {keep in mind i dont really know how to explain things }
+--------------------------------------------------------------------
 
-i dont really know how to explain so bye bye i will eat skittles ok bye
+Open "Roblox Studio" and open a existing plane (or a new one)
+
+Click the part button (or get a iten from the toolbox) 
+
+Open the explorer (just skip this part if it's already open)
+and click workspace
+
+Look for your object you put inside of the place on the explorer and on the right side where the plus button is click it
+
+Next, click "Scripts"
+
+and now add any of the scripts I put in this repository!!!!!!!!!!
+
+
+
+
+
+
+
