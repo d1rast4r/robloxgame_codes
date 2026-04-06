@@ -81,3 +81,5 @@ while true do
 	List.CanvasSize = UDim2.new(0, 0, 0, ItemsFrame.UIListLayout.AbsoluteContentSize.Y + 35)
 	wait(UpdateEvery)
 end
+
+Paste onto roblox script 
