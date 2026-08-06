@@ -1,6 +1,8 @@
 # Roblox scripts (to develop games)
 
-Basically this repository has some random codes from my roblox games ( which all except 2 are privated)
+Basically this repository has some random codes from my roblox games (all privated)
+
+(from august 2026): {Basically Roblox implemented a new feature where you have to pay to make games yikessss}
 
 -Tutorial- {keep in mind i dont really know how to explain things }
 --------------------------------------------------------------------
