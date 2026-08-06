@@ -7,7 +7,7 @@ Basically this repository has some random codes from my roblox games (all privat
 -Tutorial- {keep in mind i dont really know how to explain things }
 --------------------------------------------------------------------
 
-Open "Roblox Studio" and open a existing plane (or a new one)
+Open "Roblox Studio" and open a existing place (or a new one)
 
 Click the part button (or get a iten from the toolbox) 
 
